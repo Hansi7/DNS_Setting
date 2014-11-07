@@ -1,15 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
-namespace DNS_Setting
+namespace SetDNS
 {
-    class Program
+    static class Program
     {
+        /// <summary>
+        /// 应用程序的主入口点。
+        /// </summary>
         [STAThread]
-        static void Main(string[] args)
+        static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
@@ -42,6 +44,8 @@ namespace DNS_Setting
                 //退出
                 Application.Exit();
             }
+
+
 
         }
     }

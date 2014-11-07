@@ -1,7 +1,0 @@
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\obj\Debug\DNS_Setting.csprojResolveAssemblyReference.cache
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\bin\Debug\DNS_Setting.exe
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\bin\Debug\DNS_Setting.pdb
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\obj\Debug\DNS_Setting.exe
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\obj\Debug\DNS_Setting.pdb
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\obj\Debug\DNS_Setting.Form1.resources
-c:\users\su\documents\visual studio 2012\Projects\DNS_Setting\DNS_Setting\obj\Debug\DNS_Setting.csproj.GenerateResource.Cache
