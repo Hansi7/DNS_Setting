@@ -18,6 +18,12 @@ namespace SetDNS
             //Icon = ShareXResources.Icon;
 
             AddDNS(Resources.DNSChangerForm_DNSChangerForm_Manual);
+            AddDNS("AliDNS阿里", "223.5.5.5", "223.6.6.6");
+            AddDNS("CNNIC SDNS", "1.2.4.8", "210.2.4.8");
+            AddDNS("114 DNS", "114.114.114.114", "114.114.115.115");
+            AddDNS("oneDNS", "112.124.47.27", "114.215.126.16");
+            AddDNS("DNS 派 电信/移动/铁通", "101.226.4.6", "218.30.118.6");
+            AddDNS("DNS 派 联通", "123.125.81.6", "140.207.198.6");
             AddDNS("Google Public DNS", "8.8.8.8", "8.8.4.4"); // https://developers.google.com/speed/public-dns/
             AddDNS("OpenDNS", "208.67.222.222", "208.67.220.220"); // http://www.opendns.com/
             AddDNS("Level 3 Communications", "4.2.2.1", "4.2.2.2"); // http://www.level3.com/
